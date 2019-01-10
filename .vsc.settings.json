@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": -1,
+    "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "vs-seti",
+    "editor.minimap.enabled": true,
+    "search.exclude": {
+        "**/node_modules": false,
+        "**/bower_components": true
+    },
+    "editor.renderWhitespace": "all",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.fontAliasing": "antialiased",
+    "typescript.autoImportSuggestions.enabled": false,
+    "workbench.editor.tabSizing": "shrink",
+    "explorer.openEditors.visible": 0,
+    "breadcrumbs.enabled": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "explorer.confirmDragAndDrop": false
+}
